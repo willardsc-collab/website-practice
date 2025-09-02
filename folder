@@ -1,0 +1,5 @@
+sock-landing/
+├── index.html
+├── styles.css
+├── app.js
+├── server (optional for backend polling logic)
